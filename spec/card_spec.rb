@@ -16,3 +16,5 @@ RSpec.describe Card do
     expect(card.rank).to eq(12)
   end
 end
+
+
